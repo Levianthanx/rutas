@@ -1,4 +1,4 @@
-node1,node2,sendero,distancia(km),color,estimate
+node1,node2,sendero,distancia.km,color,estimate
 cr18n16-2,Balcones_de_gratomira,rs,1.10,red,0
 Cr19an23,Rincon_de_las-margaritas,rs,1.34,red,0
 Cr35n18-43,Cr19an23,rs,1.48,red,0
