@@ -1,6 +1,6 @@
 node1,node2,trail,distance,color,estimate
-cr18n16-2,Balcones_de_gratomira,rs,1.10,blue,0
-Cr19an23,Rincon_de_las-margaritas1,rs,1.34,blue,0
+cr18n16-2,Cr19an23,rs,1.10,blue,0
+Cr19an23,Balcones_de_gratomira,rs,1.34,blue,0
 Cr35n18-43,Cr19an23,rs,1.48,blue,0
 Cr31n5-41,Balcones_de_gratomira,rs,0.69,blue,0
 Rincon_de_las-margaritas1,serramonte5,rs,2.38,blue,0
